@@ -64,6 +64,10 @@
   Analise sobre as ações da empresa Exxon Mobil em 2025, e sua comparação de local com o estreito de ormuz (cujo explicado já em home)
 
   ![8](https://github.com/user-attachments/assets/3c6743bf-80f3-496d-a955-39e2c746fd81)
-
+  
 
 ## [📋] Conclusão
+
+Este projeto proporcionou uma análise detalhada das ações de grandes empresas de petróleo em 2025, com um foco especial nas implicações geopolíticas da região do Oriente Médio, particularmente no que diz respeito ao Estreito de Ormuz. Através do uso da API Marketstack e das ferramentas como Python, Power BI e Figma, foi possível criar um dashboard intuitivo e informativo que conecta dados financeiros a um contexto geopolítico real e relevante para o mercado de petróleo, sem dúvidas o projeto mais completo que já fiz!
+
+Apesar da limitação da API, que impediu a inclusão de três das maiores empresas, o dashboard ainda fornece uma visão robusta e representativa do desempenho das empresas analisadas. A visualização no Power BI e o uso de mapas interativos proporcionam um entendimento claro da relação entre as sedes das empresas e a importância estratégica do Estreito de Ormuz, um ponto crítico para o abastecimento de petróleo global.
