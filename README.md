@@ -1,4 +1,4 @@
-# Dashboard Ações de Grandes Empresas do Petróleo em 2025
+# Dashboard Ações de Grandes Empresas de Petróleo em 2025
 ## [📖] Introdução
   Este projeto tem como objetivo analisar o desempenho das principais empresas de petróleo, como Saudi Aramco, BP, Chevron, Equinor, Shell, TotalEnergies e ExxonMobil. A análise foi feita com dados da API do Marketstack, mas, por limitações da ferramenta, algumas empresas como PetroChina, Petrobras e China Petroleum & Chemical Corp não puderam ser incluídas pois só são disponíveis para quem tem API Premium.
   
