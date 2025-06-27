@@ -4,6 +4,8 @@
   
   Esse estudo ganha relevância no contexto atual de tensões no Oriente Médio, especialmente em relação ao Irã e ao Estreito de Ormuz. O estreito é uma das rotas mais importantes para o transporte de petróleo e qualquer instabilidade ali pode afetar todo o mercado. O objetivo aqui é mostrar como a localização das sedes dessas gigantes do petróleo se conecta diretamente a essa região crítica e entender como isso pode impactar suas ações.
 
+  Fonte das top 10 empresas de petróleo: https://www.nordinvestimentos.com.br/blog/maiores-petroliferas-do-mundo/
+
 ## [⚙️] Tecnologias Utilizadas
 - Power BI
 - Pandas
