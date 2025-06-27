@@ -8,6 +8,7 @@
 
 ## [⚙️] Tecnologias Utilizadas
 - Power BI
+- Inteligência Artifical
 - Pandas
 - Python
 - Figma
