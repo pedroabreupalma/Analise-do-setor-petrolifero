@@ -25,6 +25,10 @@
   
   **Design:** O design do dashboard foi criado no Figma, onde foram feitas as páginas e a estrutura visual. A integração entre o design e as análises foi feita de forma a garantir uma navegação fluida e intuitiva para o usuário e com o padrão visual de cada empresa.
 
+ **--=--**
+  
+  **_📊 Vídeo do dashboard: https://drive.google.com/file/d/15yvTOD0EvysrPExncfpNJ9Sf5Av0Fm8q/view?usp=sharing_**
+
   ### [📄] Páginas do dashboard:
   
   #### 👉 Página 1 (Home)
